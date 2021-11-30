@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="amplitude">
+        <item>10mm/mv</item>
+        <item>20mm/mv</item>
+        <item>30mm/mv</item>
+    </string-array>
+</resources>
